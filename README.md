@@ -1,3 +1,3 @@
-# RamdomUser
+# Random User
 
-install: yarn && pod isntall
+install: yarn && pod install
